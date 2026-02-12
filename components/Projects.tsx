@@ -83,7 +83,9 @@ const projects: Project[] = [
       { url: 'https://lh3.googleusercontent.com/d/1bvp7VQP8rgExPmD2PdDafMaBPAQixSb9', caption: 'AI Voice Appointment Setter' },
       { url: 'https://lh3.googleusercontent.com/d/1qLRCE7JG8aogQJiChDDYGLzWe5gBf98_', caption: 'AI Voice Appointment Setter' },
       { url: 'https://lh3.googleusercontent.com/d/115mupj6UUrAPb9acBWVoFj7tsvH-HFG7', caption: 'Messenger Chat-Bot' },
-      { url: 'https://lh3.googleusercontent.com/d/18qXz2XJHn0YW_LwyRQhmFtcIGSGzM4z9', caption: 'Airtable AI Agent' }
+      { url: 'https://lh3.googleusercontent.com/d/18qXz2XJHn0YW_LwyRQhmFtcIGSGzM4z9', caption: 'Airtable AI Agent' },
+      { url: 'https://lh3.googleusercontent.com/d/1Uo4MHkqG7VNhw9sLGhe3NEVyK5n3qtvc', caption: 'Auto Draft Email for Customer Inquiry' },
+      { url: 'https://lh3.googleusercontent.com/d/1xTmaqNFFJ8wOIzPqgay8VQS49BJNZsTt', caption: 'Auto-sending Email with labels to Customer Inquiry' }
     ],
     tags: ['n8n', 'VAPI', 'Airtable', 'Gemini', 'DevOps', 'Backend']
   },
@@ -155,13 +157,15 @@ const projects: Project[] = [
     tags: ['CRM', 'HUBSPOT', 'AIRTABLE']
   },
   {
-    title: 'LANDING PAGE',
+    title: 'FUNNELS',
     desc: 'LEAD GENERATION ENGINES',
     icon: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCuFdX0Ms-j0Se5OFuvhy0dwNjme5vD0JW18xAMtSmEugb8tp499MxN1KivScKJIQ0yQXHKHFnpsNCRk9X8Pu1dn4DkKy0HUm8eqGyJ43fLwCZGsWam8JU3EiN50uQ8xCr6fOlrdORIWVyVz7iIWYMC9Cpc8D6EYtwRyeNVec2pjOu5tQQDisdlQzpmudo2zznAWCn1Y4AvUHkCntLlXSXhL4FBCM46z2feIli331GxtHo_KpwniJz2BRURw-YB2PvMcrzmRaOaTUw',
     color: 'from-[#7b68ee]/20 to-[#0a0a0a]',
     solutionTitle: 'The Solution',
     longDesc: 'Implementing high-performance LANDING PAGE workflows to streamline business operations. This solution reduces manual data entry, prevents synchronization errors, and ensures a single source of truth across your entire software stack.',
     images: [
+      { url: 'https://lh3.googleusercontent.com/d/1YttwaAeka-Ea7NmVqZnoOJDC80HPKJ1p', caption: 'Medical Weight Loss Clinic Funnel' },
+      { url: 'https://lh3.googleusercontent.com/d/1vLpPGALz5GXXHQDiLEAI3RG3s56vbGpS', caption: 'Weight Loss Clinic Funnel' },
       { url: 'https://lh3.googleusercontent.com/d/1q6WWbnhJWCdmHd70gcNVEwtV-JzGZVxw', caption: 'Landing Page' },
       { url: 'https://lh3.googleusercontent.com/d/1tO4m2wfTBAxwvz-HNTY_b3qEvdq0AtCY', caption: 'Landing Page Lead Magnet' },
       { url: 'https://lh3.googleusercontent.com/d/18sk3SaQ-n6gWC276UPsQY0ZyJtCuZEki', caption: 'Landing Page' }
